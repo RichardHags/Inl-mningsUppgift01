@@ -1,0 +1,6 @@
+
+interface IHjulburen {
+
+	void getAntalHjul();
+
+}
