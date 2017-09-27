@@ -8,7 +8,7 @@ public class OopInlämningsUppgift01 {
 		System.out.println();
 		
 		System.out.println("Ok nu har jag ändrat lite till!!!");
-		
+		System.out.println("ändrar igen");
 
 	}
 
